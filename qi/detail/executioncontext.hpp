@@ -8,6 +8,7 @@
 #define _QI_EXECUTION_CONTEXT_HPP_
 
 #include <boost/function.hpp>
+#include <boost/type_traits/is_same.hpp>
 #include <qi/clock.hpp>
 #include <qi/api.hpp>
 

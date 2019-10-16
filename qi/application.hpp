@@ -9,6 +9,7 @@
 # define _QI_APPLICATION_HPP_
 
 # include <functional>
+# include <iostream>
 # include <vector>
 # include <string>
 # include <qi/api.hpp>
